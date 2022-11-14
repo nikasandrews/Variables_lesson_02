@@ -97,7 +97,7 @@ public class Main {
         System.out.println( " Кристина получает зарплату " +kristinaGets);
         int nowItGets=76230/100*10+76230;
         int theIncreaseWas=7623;
-        System.out.println( " После повышения она получает " + nowItGets + " годовой доход вырос на "+theIncreaseWas  );
+        System.out.println( " После повышения она получает " + nowItGets + " годовой доход вырос на " + theIncreaseWas  );
 
 
 
